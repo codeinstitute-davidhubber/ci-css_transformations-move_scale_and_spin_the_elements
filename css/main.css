@@ -3,7 +3,7 @@
     width: 100px;
     height: 100px;
 
-    transform: translate(100px, 100px) 3s ease-out;
+    transform: translate(100px, 100px) 3s ease-in-out;
 
     background-color: tomato;
 }
